@@ -1,6 +1,6 @@
 
 
-# viEMO: Advancing Vietnamese Emotion Recognition with Multimodal Learning
+# viEMO: Advancing Emotion Recognition in Vietnamese Language through Multimodel Learning
 
 ## Overview
 viEMO is a project focused on developing an emotion recognition system for Vietnamese using multimodal learning techniques. The project leverages data from text, audio, and images to improve the accuracy and reliability of emotion recognition.
